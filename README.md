@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SrijitNair
 - 👀 I’m interested in network virtualization, network scaling, security, deep learning, LLM
-- 🌱 I’m currently learning kubernates, docker, linkerd
-- 💞️ I’m looking to collaborate on interpod communication and network stack isolation from app
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on AI cache optimization
 - 📫 How to reach me srijit.pune@gmail.com
 
 <!---
